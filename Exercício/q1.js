@@ -1,1 +1,1 @@
-
+alert("Prova de milhões");
