@@ -1,0 +1,1 @@
+Estudante curso técnico informática
